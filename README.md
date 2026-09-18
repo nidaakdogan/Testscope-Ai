@@ -1,8 +1,6 @@
 # TestScope AI - Çevresel Test Risk Tahmin Sistemi
 
-TestScope AI, askeri ve endüstriyel standartlara (MIL-STD-810, ISO 16750 vb.) uygun olarak test senaryolarını simüle eden ve yapay zeka destekli risk analizi yapan bir masaüstü uygulamasıdır.
-
-Uygulama, sıcaklık, nem, titreşim ve basınç gibi çevresel parametreleri kullanarak cihazların dayanıklılığını değerlendirir ve risk seviyelerini görselleştirir.
+TestScope AI, MIL-STD-810 ve ISO 16750 gibi çevresel test standartlarını temel alarak test senaryolarını simüle eden ve yapay zekâ destekli risk analizi gerçekleştiren bir uygulamadır. Sıcaklık, nem, titreşim ve basınç gibi çevresel parametreleri analiz ederek risk seviyelerinin değerlendirilmesini ve görselleştirilmesini sağlar.
 
 ## Özellikler
 
